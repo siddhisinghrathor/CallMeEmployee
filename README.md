@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Employee Task Tracker
+# Employee Task Tracker
 
 ### Enterprise-Grade Employee & Project Management Platform
 
@@ -17,7 +17,7 @@ Manage employees, projects, tasks, deadlines, and team collaboration from a sing
 
 ---
 
-### 🎯 Built to Learn Real-World Software Engineering
+###  Built to Learn Real-World Software Engineering
 
 From System Design → Database Design → Backend APIs → Frontend Development → Deployment
 
@@ -25,7 +25,7 @@ From System Design → Database Design → Backend APIs → Frontend Development
 
 ---
 
-# 📖 Table of Contents
+# Table of Contents
 
 * Overview
 * Problem Statement
@@ -44,7 +44,7 @@ From System Design → Database Design → Backend APIs → Frontend Development
 
 ---
 
-# 🌟 Overview
+# Overview
 
 Employee Task Tracker is a full-stack enterprise productivity platform that helps organizations manage:
 
@@ -64,7 +64,7 @@ The system follows a **Modular Monolith Architecture**, making it easy to scale 
 
 ---
 
-# ❓ Why This Project?
+# Why This Project?
 
 Most organizations struggle with:
 
@@ -78,14 +78,14 @@ This platform solves those challenges by providing a centralized workspace for m
 
 ---
 
-# 🎥 Application Flow
+#  Application Flow
 ![Application Flow](./docs/application-flow.png)
 
 ---
 
-# ✨ Features
+# Features
 
-## 🔐 Authentication & Authorization
+## Authentication & Authorization
 
 * Secure JWT Authentication
 * Login & Logout
@@ -95,7 +95,7 @@ This platform solves those challenges by providing a centralized workspace for m
 
 ---
 
-## 👥 Employee Management
+##  Employee Management
 
 * Add Employee
 * Update Employee
@@ -106,7 +106,7 @@ This platform solves those challenges by providing a centralized workspace for m
 
 ---
 
-## 📁 Project Management
+## Project Management
 
 * Create Projects
 * Manage Project Members
@@ -115,7 +115,7 @@ This platform solves those challenges by providing a centralized workspace for m
 
 ---
 
-## ✅ Task Management
+## Task Management
 
 * Create Tasks
 * Assign Tasks
@@ -126,7 +126,7 @@ This platform solves those challenges by providing a centralized workspace for m
 
 ---
 
-## 💬 Collaboration
+## Collaboration
 
 * Task Comments
 * Activity Timeline
@@ -134,7 +134,7 @@ This platform solves those challenges by providing a centralized workspace for m
 
 ---
 
-## 📊 Reporting
+## Reporting
 
 * Employee Productivity
 * Task Completion Rate
@@ -143,7 +143,7 @@ This platform solves those challenges by providing a centralized workspace for m
 
 ---
 
-# 🏛️ High-Level Architecture
+# High-Level Architecture
 
 ![Architecture Diagram](./docs/hld.png)
 
